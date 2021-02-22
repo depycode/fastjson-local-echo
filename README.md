@@ -1,5 +1,5 @@
 # fastjson-local-echo
-基于bcel的fastjson rce 回显
+基于dbcp的fastjson rce 回显
 
 # 参考
 - http://blog.nsfocus.net/fastjson-basicdatasource-attack-chain-0521/
