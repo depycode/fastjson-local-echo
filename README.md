@@ -9,6 +9,7 @@
 
 - fastjson <= 1.2.24 
 - 1.2.33 <= fastjson <= 1.2.47
+- jdk <= 8u251
 - 存在 tomcat-dbcp
 
 |  文件名   | 介绍  |
