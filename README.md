@@ -4,6 +4,7 @@
 # 参考
 - http://blog.nsfocus.net/fastjson-basicdatasource-attack-chain-0521/
 - https://kingx.me/Exploit-FastJson-Without-Reverse-Connect.html
+- https://www.leavesongs.com/PENETRATION/where-is-bcel-classloader.html
 
 # 适用场景
 
