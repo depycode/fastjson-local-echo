@@ -45,7 +45,7 @@ Content-Length: 3327
 
 ```
 
-- 1.2.33 <= fastjson <= 1.2.47
+- 1.2.33 <= fastjson <= 1.2.47  poc
 ```java
 POST /json HTTP/1.1
 Host: 127.0.0.1:9092
